@@ -1,4 +1,4 @@
-Git config 명령을 사용해서 Git 옵션 설정하기
+#Git config 명령을 사용해서 Git 옵션 설정하기
 
 Git config —global <옵션명>
 지정한 전역 옵션의 내용을 살표봅니다.
